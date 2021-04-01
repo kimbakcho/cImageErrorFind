@@ -1,15 +1,16 @@
 # **씨엔시스 불량 검출 프로젝트**
   
-<img src="https://github.com/kimbakcho/censysImageErrorFind/blob/main/resultImage/1.png?raw=true" width="200"/>
-<img src="https://github.com/kimbakcho/censysImageErrorFind/blob/main/resultImage/2.png?raw=true" width="200"/>
-<img src="https://github.com/kimbakcho/censysImageErrorFind/blob/main/resultImage/3.png?raw=true" width="200"/>
-<img src="https://github.com/kimbakcho/censysImageErrorFind/blob/main/resultImage/4.png?raw=true" width="200"/>
-<img src="https://github.com/kimbakcho/censysImageErrorFind/blob/main/resultImage/5.png?raw=true" width="200"/>
-<img src="https://github.com/kimbakcho/censysImageErrorFind/blob/main/resultImage/6.png?raw=true" width="200"/>
-<img src="https://github.com/kimbakcho/censysImageErrorFind/blob/main/resultImage/7.png?raw=true" width="200"/>
-<img src="https://github.com/kimbakcho/censysImageErrorFind/blob/main/resultImage/8.png?raw=true" width="200"/>
-<img src="https://github.com/kimbakcho/censysImageErrorFind/blob/main/resultImage/9.png?raw=true" width="200"/>
-<img src="https://github.com/kimbakcho/censysImageErrorFind/blob/main/resultImage/10.png?raw=true" width="200"/>
+<img src="https://github.com/kimbakcho/censysImageErrorFind/blob/main/resultImage/1.png?raw=true" width="400"/>
+<img src="https://github.com/kimbakcho/censysImageErrorFind/blob/main/resultImage/2.png?raw=true" width="400"/>
+<img src="https://github.com/kimbakcho/censysImageErrorFind/blob/main/resultImage/3.png?raw=true" width="400"/>
+<img src="https://github.com/kimbakcho/censysImageErrorFind/blob/main/resultImage/4.png?raw=true" width="400"/>
+<img src="https://github.com/kimbakcho/censysImageErrorFind/blob/main/resultImage/5.png?raw=true" width="400"/>
+<img src="https://github.com/kimbakcho/censysImageErrorFind/blob/main/resultImage/6.png?raw=true" width="400"/>
+<img src="https://github.com/kimbakcho/censysImageErrorFind/blob/main/resultImage/7.png?raw=true" width="400"/>
+<img src="https://github.com/kimbakcho/censysImageErrorFind/blob/main/resultImage/8.png?raw=true" width="400"/>
+<img src="https://github.com/kimbakcho/censysImageErrorFind/blob/main/resultImage/9.png?raw=true" width="400"/>
+<img src="https://github.com/kimbakcho/censysImageErrorFind/blob/main/resultImage/10.png?raw=true" width="400"/>
+
 ---
 
 #목적
