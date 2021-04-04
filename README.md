@@ -1,4 +1,4 @@
-# **씨엔시스 불량 검출 프로젝트**
+# **불량 검출 프로젝트**
   
 <img src="https://github.com/kimbakcho/censysImageErrorFind/blob/main/resultImage/1.png?raw=true" width="400"/>
 <img src="https://github.com/kimbakcho/censysImageErrorFind/blob/main/resultImage/2.png?raw=true" width="400"/>
